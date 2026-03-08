@@ -1,20 +1,20 @@
-Made by: @Paglu  // Robotic Paglu 
-Repository link: https://github.com/smartlearningorbit-arch/Enderson
-Total hours so far: --
+**Made by:** @Paglu // Robotic Paglu <br/>
+**Repository link:** https://github.com/smartlearningorbit-arch/Enderson <br/>
+**Total hours so far:** 27 Hr <br/>
 
 - [✓] I have a 3D printer or will be getting one before March 21st  
 
-# Date/log - Saturday, 8 March, 2026 / 16 hr 
+# Date/log - Saturday, 8 March, 2026 / 14.5 hr 
 ## Research & plan 
 Today i plan what should be there in my printer, so for that I made a list of feature 
 here is the list { pls ignor my writing }
-
-this thing look Simple but it contain the lot of research to comes to this conclution 
+<img width="280" height="1164" alt="image" src="https://github.com/user-attachments/assets/7636f9e1-0583-4105-b660-580b152ca45a" /> <br/>
+This thing look Simple but it contain the lot of research to comes to this conclution 
 resources used 
 - #infill slack Community {really helpfull}
--Toutorial
--Documentation
--AI 
+- Toutorial
+- Documentation
+- AI 
 
 
 # Date/log - Saturday, 7 March, 2026 / 12.5 hr 

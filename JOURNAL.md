@@ -5,17 +5,29 @@
 - [✓] I have a 3D printer or will be getting one before March 21st  
 
 # Date/log - Tuesday, 10  March, 2026      13 hr 
-## Big Decision 
-Breaking news I'm no longer buying ender 3 for Scrap part After Conducting a long long long long long research 
-My conclusion is simple It isn't worth that much 
-At morning 11AM I WAKE  and Back to work ( IK it is late BUT i slept at 4:45 )
-then working on BOM but then I found that I ender 3 6k INR expensive if I use an external MCU Rather than the ender 3 board v4.222
-then i search for second hand printer But they full ware and used thousant of hour so it does make sense to buy  it 
-then I plan if i not buy a 3d printer then How i arange the parts requird to be 3d printed 
-then i decided to take it from #printing-legion-india / or some other sources & reduce the use of 3d printed parts 
-the body I print after the print build cuz it does effect the print process 
-or use some other matherial like aluminum sheet for mount and  acrylic for body
-
+## Breaking news — I am no longer buying an Ender 3 for scrap parts.
+After conducting a long long long research, I came to a simple conclusion:
+It is not worth that much money. <br/> 
+Today I woke up at 11 AM and got back to work.
+(I know it is late but I slept at 4:45 AM.) <br/> 
+First I started working on the BOM (Bill of Materials).
+While calculating the cost I realized something important. <br/> 
+Buying an Ender 3 for ₹6000 is expensive if I use an external MCU instead of the Ender 3 board v4.2.2. <br/> 
+So I searched for second-hand printers, but most of them were: <br/> 
+- fully worn out
+- used for thousands of printing hours  <br/> 
+ So it doesn't make sense to buy them.
+Then I started thinking:
+If I don't buy a 3D printer, how will I arrange the parts that need to be 3D printed?  <br/> 
+Finally I decided I can get them printed from:
+- #printing-legion-india
+- or some other printing sources.  <br/> 
+I will also try to reduce the number of 3D printed parts.
+New plan for the structure:
+- Use aluminum sheet for mounting parts
+- Use acrylic for the body  <br/> 
+Print the final outer case after the printer is working, so it doesn't affect the print process.
+ 
 # Date/log - Tuesday, 9-10  March, 2026      18 hr 
 ## Designing the printer
 After all the plan is done I finally designed the 3D printer and Many part is made by scratch 

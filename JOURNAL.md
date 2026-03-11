@@ -8,6 +8,13 @@
 ## Big Decision 
 Breaking news I'm no longer buying ender 3 for Scrap part After Conducting a long long long long long research 
 My conclusion is simple It isn't worth that much 
+At morning 11AM I WAKE  and Back to work ( IK it is late BUT i slept at 4:45 )
+then working on BOM but then I found that I ender 3 6k INR expensive if I use an external MCU Rather than the ender 3 board v4.222
+then i search for second hand printer But they full ware and used thousant of hour so it does make sense to buy  it 
+then I plan if i not buy a 3d printer then How i arange the parts requird to be 3d printed 
+then i decided to take it from #printing-legion-india / or some other sources & reduce the use of 3d printed parts 
+the body I print after the print build cuz it does effect the print process 
+or use some other matherial like aluminum sheet for mount and  acrylic for body
 
 # Date/log - Tuesday, 9-10  March, 2026      18 hr 
 ## Designing the printer

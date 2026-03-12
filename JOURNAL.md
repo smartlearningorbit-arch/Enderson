@@ -3,8 +3,8 @@
 
 - [✓] I have a 3D printer or will be getting one before March 21st  
 
- [Time lapse Designing 1.0](https://hackclub.enterprise.slack.com/files/U0ADJ8KJK53/F0AKVMX5065/whatsapp_video_2026-03-09_at_3.12.27_pm.mp4) <br/>
- [Time lapse Designing 2.0](https://hackclub.slack.com/archives/C08B7LF58TX/p1773322538954319?thread_ts=1773073754.786359&cid=C08B7LF58TX)
+ [Time lapse 1.0](https://hackclub.enterprise.slack.com/files/U0ADJ8KJK53/F0AKVMX5065/whatsapp_video_2026-03-09_at_3.12.27_pm.mp4) <br/>
+ [Time lapse 2.0](https://hackclub.slack.com/archives/C08B7LF58TX/p1773322538954319?thread_ts=1773073754.786359&cid=C08B7LF58TX)
 
   
 # Date/log - Tuesday, 10 March, 2026  1.7Hr

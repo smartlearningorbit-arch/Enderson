@@ -14,27 +14,27 @@
 After taking to Alot Of People. I found there Is Majoy Problem :
 
 
-## Motion System Missing (Fixed)[x]
+## Motion System Missing (Fixed) [x]
 - No belt exist
 - No pulleys setup
 - Motors exist but don’t drive anything
 - No working CoreXY mechanism {JUST A CAD}
 
 
-## Z-Axis Weak Design VIA @1mon (Fixed)[x]
+## Z-Axis Weak Design VIA @1mon (Fixed) [x]
 - No guide rail and linear rod
 - it is very weak design
 - cause Bad print quality or non working printer
 
 
-## Tool head (Fixed)[x]
+## Tool head (Fixed) [x]
 - Incorrect fan position 
 - No cooling duct (Not maintain the air flow)
 - No space for Bltouch
 - Centre of mass not manage 
 
 
-## Structure issue and some geometrical issue (Fixed)[x]
+## Structure issue and some geometrical issue (Fixed) [x]
 
 ---------------------
 ---------------------

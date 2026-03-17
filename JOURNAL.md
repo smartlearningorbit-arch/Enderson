@@ -9,7 +9,7 @@
 
 
 
-# Date/log - Friday, 17 March, 2026  0.3 Hr
+# Date/log - Friday, 17 March, 2026  0.7 Hr
 ## Analyse the problem 
 After taking to Alot Of People. I found there Is Majoy Problem :
 
